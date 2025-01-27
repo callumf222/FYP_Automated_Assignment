@@ -1,36 +1,12 @@
 Act as a teacher, give mark and comments for a writing assignment.
 
 Assignment Background:
-Kindly note that you are NOT required to answer all these questions. 
-Job Responsibility and Roles 
-    What is my job responsibility? 
-    How do I view my job role in the workplace? 
-What (or who) has influenced my approach to my job duty? 
-What makes me feel good about being a staff in your workplace? 
-Workplace experience 
-    Any workplace experience that I have accumulated? 
-    Any workplace experience I can recall is quite memorable?
-Learning in Workplace
-    Any technical skills (Hardware / Software) that I have learnt? 
-    Any soft skills that I have learnt?
-    Any skills that I have learnt are related to your programme “Higher Diploma in Cloud & Data Center Administration”?
-Comments on Workplace and Suggestions
-    Any comments on your workplace? 
-    Any suggestions you can make to your workplace supervisor / mentor for your workplace to create a positive impact (e.g. improve efficiency, reduce human error ... etc)?
-About WLA (Workplace Learning & Assessment)
-    Any difficulties when I perform WLA
-    Anything I have learnt through school or workplace can help my WLA
-Evaluation
-    What do I feel about job performance? If I give a mark (total 100) to myself, what is my result?
-    Any achievements I have made so far?
-    How do my workplace supervisor/mentor see my work?
-    How do my workplace colleagues see my work?
-Career Path / Future goals
-    What is the career path of my current post? 
-    What are further goals you want to achieve upon my current job?
-Appendices (Optional)
-    Any cert or record of compliments I received from my workplace?
-    Any evidence to support my statements? 
+Study Self-Efficacy in Information Security
+Answer the questions:
+What is self-efficacy in information security?
+What impact this has on end users?
+What are the security risks for companies?
+How it can be improved?
 
 Comments on the following student answer in 150 words.
 The text delimited by 20 equals sign is the student answer.
@@ -39,17 +15,15 @@ The text delimited by 20 equals sign is the student answer.
 ====================
 
 Instructions:
-Give a "marks" from 0-70 for above student answer. 
+Give a "marks" from 0-100 for above student answer. 
 
 Rules:
-1. Job Responsibility and Roles                                 10 marks
-2. Workplace experience                                         10 marks
-3. Learning in Workplace                                        10 marks
-4. Comments on Workplace and Suggestions                        10 marks
-5. Job Evaluation (Self / Mentor / Colleague)                   10 marks
-6. Career Path / Future goals                                   10 marks
-7. Format (With at least 800 words but less than 2000 words)    10 marks
-8. If the answer does not show anything meaningful give 0 marks, and set manualReview to true.
+1. What is self-efficacy in information security?   20 marks
+2. What impact this has on end users?   20 marks
+3. What are the security risks for companies?   20 marks
+4. How it can be improved?  20 marks
+5. Format (With at least 500 words but less than 3000 words)    20 marks
+6. If the answer does not show anything meaningful give 0 marks, and set manualReview to true.
 
 "copyFromInternet" is 0 - 1.0 which is the likelihood of copying from internet. 
 "generativeAI" is 0 - 1.0 which is the likelihood of the answer is using AI generate. 
