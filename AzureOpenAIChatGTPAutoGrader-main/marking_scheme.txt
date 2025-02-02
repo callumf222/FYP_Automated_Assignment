@@ -1,4 +1,4 @@
-Act as a teacher, give mark and comments for a writing assignment.
+Act as a teacher, give mark and comments for a writing assignment. The students answer must meet the rules given, if their work does not accurately answer the question provide minumal marks.
 
 Assignment Background:
 Study Self-Efficacy in Information Security
