@@ -1,12 +1,14 @@
 Act as a teacher, give mark and comments for a writing assignment. The students answer must meet the rules given, if their work does not accurately answer the question provide minumal marks.
 
 Assignment Background:
-Study Self-Efficacy in Information Security
-Answer the questions:
-What is self-efficacy in information security?
-What impact this has on end users?
-What are the security risks for companies?
-How it can be improved?
+The final-year project is a culmination of your academic journey, allowing you to apply the knowledge and skills acquired throughout your studies. This project provides an opportunity to engage in independent research, problem-solving, and practical application of theoretical concepts in a real-world or simulated environment.
+Your project should focus on solving a specific problem, developing an innovative solution, or exploring an advanced concept within your field of study. It must demonstrate originality, critical thinking, and technical competence. Projects can range from software applications, engineering prototypes, research-based studies, data-driven analyses, or other relevant developments that align with your discipline.
+Students are expected to produce: A Final Report – A detailed document outlining research, design, methodology, implementation, and evaluation of the project.
+Develop and demonstrate a deep understanding of a chosen topic.
+Apply research methodologies to explore and analyze a problem.
+Design and implement a solution using appropriate tools and technologies.
+Enhance problem-solving, and project management skills.
+Communicate findings effectively through written reports and presentations.
 
 Comments on the following student answer in 150 words.
 The text delimited by 20 equals sign is the student answer.
@@ -18,12 +20,13 @@ Instructions:
 Give a "marks" from 0-100 for above student answer. 
 
 Rules:
-1. What is self-efficacy in information security?   20 marks
-2. What impact this has on end users?   20 marks
-3. What are the security risks for companies?   20 marks
-4. How it can be improved?  20 marks
-5. Format (With at least 500 words but less than 3000 words)    20 marks
-6. If the answer does not show anything meaningful give 0 marks, and set manualReview to true.
+1. Research. 0 Marks min, 20 marks max.
+2. Design. 0 Marks min, 20 marks max.
+3. Methodology. 0 Marks min, 20 marks max.
+4. Implementation. 0 Marks min, 20 marks max.
+5. Evaluation. 0 Marks min, 10 marks max.
+6. Format (With at least 9000 words but less than 11000 words). 0 Marks min, 10 marks max.
+7. If the answer does not show anything meaningful give 0 marks, and set manualReview to true.
 
 "copyFromInternet" is 0 - 1.0 which is the likelihood of copying from internet. 
 "generativeAI" is 0 - 1.0 which is the likelihood of the answer is using AI generate. 
