@@ -1,0 +1,196 @@
+//**Marking Rubric in JSON**
+{
+
+  "rubric": [
+
+
+    {
+      "category": "Statement of project’s context, aims and objectives. To what extent are the problem topic and investigation well framed in the report? How challenging is the problem demonstrated to be?",
+      "weight": 2,
+      "criteria": [
+        { "score_range": "0-29", "description": "No statement or very generalised with vague aims or objectives. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+        { "score_range": "30-39", "description": "Problem area outlined but insufficiently clear aims and objectives." },
+        { "score_range": "40-49", "description": "Problem topic and aims and objectives apparent. But shows limited understanding and analysis." },
+        { "score_range": "50-59", "description": "Problem topic and aims and objectives well presented, showing understanding and analysis. Key aspects of the context are covered." },
+        { "score_range": "60-69", "description": "Problem topic and aims and objectives well framed and viewed in wider context." },
+        { "score_range": "70-79", "description": "Problem is clearly shown to be challenging OR shows originality and confidence in criticising assumptions." },
+        { "score_range": "80-100", "description": "Challenging problem, AND tackled with originality and confidence." }
+      ]
+    },
+    {
+      "category": "Critical review of relevant literature. How critical, relevant, comprehensive and current is the review? Are the sources demonstrated to be credible (or not)? Does the review incorporate all the relevant literature? Is irrelevant material left out?",
+      "weight": 2,
+      "criteria": [
+        { "score_range": "0-29", "description": "Zero or a few sources mentioned, but not reviewed. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+        { "score_range": "30-39", "description": "Superficial review, misunderstanding the subject." },
+        { "score_range": "40-49", "description": "Some research using texts, Internet and key reference sources with reference citation and presentation according to convention. Limited understanding and analysis." },
+        { "score_range": "50-59", "description": "Research uses primary sources. Appropriately cited and presented references. Shows some understanding and analysis." },
+        { "score_range": "60-69", "description": "Well researched and presented. Demonstrates understanding and viewed in wider context. Uses credible, current material. Shows some originality of thought with good critique." },
+        { "score_range": "70-79", "description": "Evidence of extensive research. Demonstrates understanding of complex subject. Shows originality and confidence in criticising assumptions." },
+        { "score_range": "80-100", "description": "Well-justified critique of literature. Identifies flaws, gaps or inconsistencies in extant knowledge." }
+      ]
+    },
+    {
+      "category": "Methodological approach. To what extent does the report show that the methods used were appropriate, justified and well applied? How well does the report describe and justify appropriate methodological tools/techniques deployed or considered for deployment?",
+      "weight": 1,
+      "criteria": [
+        { "score_range": "0-29", "description": "Little/no evidence of choice or use of method or life cycle. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+        { "score_range": "30-39", "description": "Poor choice of methodology and life cycle, or little/no evidence of use." },
+        { "score_range": "40-49", "description": "Methodology and/or life cycle described. Some evidence of use." },
+        { "score_range": "50-59", "description": "Appropriate methodology and life cycle used. Some justification for use." },
+        { "score_range": "60-69", "description": "Credible justification for use." },
+        { "score_range": "70-79", "description": "Methodology well described, well applied and well justified." },
+        { "score_range": "80-100", "description": "Innovative aspects to methodology or application." }
+      ]
+    },
+
+    {
+        "category": "Specification and discussion of the requirements. How well does the report describe and justify how the specification of the problem and its solution were arrived at? Does the report describe and explain the important requirements (and why they are important)? Are the requirements complete and consistent? Has the client approved them (implicitly or explicitly)?",
+        "weight": 3,
+        "criteria": [
+          { "score_range": "0-29", "description": "No discernable requirements. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Requirements are vague, unclear or disjointed." },
+          { "score_range": "40-49", "description": "Partial statement of requirements. Some limited indication of how they were arrived at." },
+          { "score_range": "50-59", "description": "Full or nearly full statement of requirements. Discussion of requirements and some analysis." },
+          { "score_range": "60-69", "description": "Relative importance of requirements is stated and justified." },
+          { "score_range": "70-79", "description": "Requirements complete and consistent, well-conducted analysis." },
+          { "score_range": "80-100", "description": "Adds some new insight into requirements specification." }
+        ]
+      },
+
+      {
+        "category": "Analysis and discussion of the IT design. How well does the report demonstrate how the solution was designed including design method(s), design process(es) and outcome(s) in areas such as system architectures, databases, user interfaces, interfaces to other systems, and other areas of IT?",
+        "weight": 3,
+        "criteria": [
+          { "score_range": "0-29", "description": "No discernible design. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Poor use of design methods, with little/no justification. Design not adequately explained." },
+          { "score_range": "40-49", "description": "Some evidence of design. Some explanation of methods, processes and outcomes." },
+          { "score_range": "50-59", "description": "Some justification of design decisions, for the significant areas of development." },
+          { "score_range": "60-69", "description": "Good justification of design decisions for most areas of development." },
+          { "score_range": "70-79", "description": "Full justification and critique of design decisions in all areas." },
+          { "score_range": "80-100", "description": "Adds some new insight into design and/or methodology." }
+        ]
+      },
+
+      {
+        "category": "Discussion of implementation. How well does the report describe and justify the decisions and trade-offs made, such as selection of algorithms, data structures, usability and implementation environments as appropriate?",
+        "weight": 3,
+        "criteria": [
+          { "score_range": "0-29", "description": "Little/no description of implementation. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Superficial description of implementation." },
+          { "score_range": "40-49", "description": "Description of implementation without much justification or reflection, or good command of techniques / tools." },
+          { "score_range": "50-59", "description": "Some justification of implementation decisions made, or good command of techniques / tools used." },
+          { "score_range": "60-69", "description": "Good justification of implementation decisions OR evidence of problem solving. Good command of techniques / tools used." },
+          { "score_range": "70-79", "description": "Thorough justification of implementation decisions made AND evidence of problem solving." },
+          { "score_range": "80-100", "description": "Adds new insight into implementation OR provides guide to avoiding similar problems." }
+        ]
+      },
+
+      {
+        "category": "Discussion of verification and validation. How well does the report describe and justify the approach(es) to verification and validation at each stage of the project, including testing and debugging?",
+        "weight": 1,
+        "criteria": [
+          { "score_range": "0-29", "description": "Little/no evidence of testing or debugging having been carried out. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Superficial description of testing and debugging." },
+          { "score_range": "40-49", "description": "Description of testing and debugging carried out." },
+          { "score_range": "50-59", "description": "Some justification of approaches used for testing and debugging." },
+          { "score_range": "60-69", "description": "Good justification of approaches used in most areas." },
+          { "score_range": "70-79", "description": "Shows that tests were well planned and fully carried out OR Critical discussion of results and remedial actions taken." },
+          { "score_range": "80-100", "description": "Tests well planned AND critical discussion." }
+        ]
+      },
+
+      {
+        "category": "Evaluation against requirements. How well does the report describe and justify the means by which the outcome of the project was evaluated? How well is it shown whether the specification of the requirements has been satisfied? How well explained are areas where it hasn’t?",
+        "weight": 2,
+        "criteria": [
+          { "score_range": "0-29", "description": "Little/no evidence of evaluation having been planned or carried out. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Some superficial evaluation carried out, but without evidence of planning or purpose." },
+          { "score_range": "40-49", "description": "Description of plan for evaluating outcome. Some evidence that outcome meets requirements." },
+          { "score_range": "50-59", "description": "Evidence that artefact meets requirements with explanation where it doesn’t." },
+          { "score_range": "60-69", "description": "Justification of evaluation method." },
+          { "score_range": "70-79", "description": "Convincing evidence that project meets its objectives or explanation where it doesn’t OR Shows awareness of limits of evaluation." },
+          { "score_range": "80-100", "description": "Convincing evidence AND awareness of limits." }
+        ]
+      },
+
+      {
+        "category": "Evidence of project planning and management. How well does the report demonstrate the preparation of an overall project plan with time-scales, resources, and a work schedule? How well does the report show evidence that it has been followed and explain deviations from it? Has an appropriate project management methodology been adopted?",
+        "weight": 1,
+        "criteria": [
+          { "score_range": "0-29", "description": "No management of project evident. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Sketchy generalised plan with no evidence of monitoring of progress." },
+          { "score_range": "40-49", "description": "Project plan with some evidence that it has been followed." },
+          { "score_range": "50-59", "description": "Some detail in plan. Evidence that it has been followed." },
+          { "score_range": "60-69", "description": "Shows a detailed plan with timescales, resources and a work schedule for most tasks. Some evaluation of progress against plan." },
+          { "score_range": "70-79", "description": "Demonstrates understanding of issues that affected the project and how they could have been avoided." },
+          { "score_range": "80-100", "description": "Develops a novel and well-justified approach to project planning and management." }
+        ]
+      },
+
+      {
+        "category": "Attributes of the solution. Based on the demonstration of the artefact(s) and/or the evidence of the artefact(s) presented in the report or its appendices, how well do they show the quality of the artefact(s), e.g. attributes such as reliability, timeliness, maintainability, completeness, and consistency? An artefact may be a piece of software, hardware or a detailed design for one",
+        "weight": 5,
+        "criteria": [
+          { "score_range": "0-29", "description": "Artefact is substantially incomplete. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Artefact does not work or meets few of the requirements that could reasonably expected to be met in the time available." },
+          { "score_range": "40-49", "description": "Artefact implements minimum functionality compared with expectation or has significant bugs." },
+          { "score_range": "50-59", "description": "Artefact implements most of the requirements with only minor bugs." },
+          { "score_range": "60-69", "description": "Artefact is reasonably complete and free of significant defects." },
+          { "score_range": "70-79", "description": "Artefact exhibits good qualities of reliability, timeliness, maintainability, completeness and consistency." },
+          { "score_range": "80-100", "description": "Artefact meets all (or virtually all) of its requirements OR Artefact is worthy of real use and/or distribution." }
+        ]
+      },
+
+      {
+        "category": "Summary, conclusions and recommendations. To what extent are the conclusions and recommendations appropriate, original and supported by the report? How well are the outcomes of the project summarised? Are the conclusions based on analysis and understanding rather than being trite?",
+        "weight": 2,
+        "criteria": [
+          { "score_range": "0-29", "description": "No serious attempt made to address the question or problem and/or shows a serious misunderstanding of the requirements of the task. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Work attempts to address the question/problem but is substantially incomplete and deficient." },
+          { "score_range": "40-49", "description": "Some summary or statement of conclusions, but the conclusions are trite or somewhat irrelevant to the problem being addressed." },
+          { "score_range": "50-59", "description": "Outcomes summarised. Conclusions mostly valid and related at least partially to the objectives. Some recommendations made." },
+          { "score_range": "60-69", "description": "Conclusions all valid and relate well to all the objectives. Recommendations are valid with some justification." },
+          { "score_range": "70-79", "description": "Demonstrates understanding of complex topic and places it in wider context." },
+          { "score_range": "80-100", "description": "Conclusions appropriate, original and supported by the report. Excellent summary of project and insightful conclusions." }
+        ]
+      },
+
+      {
+        "category": "Structure and presentation. How well presented is the report in terms of quality of prose style; page layout; appropriate division into chapters, sections and sub-sections; use of graphics and tables; punctuation, spelling, grammar and syntax; ease of reading; enjoyability of reading?",
+        "weight": 2,
+        "criteria": [
+          { "score_range": "0-29", "description": "Acutely deficient in all aspects. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Serious problems with a number of aspects of language use are often found in work in this range." },
+          { "score_range": "40-49", "description": "An attempt to follow directions regarding organisation, structure, use and flow of language, grammar, spelling, format, diagrams, tables etc." },
+          { "score_range": "50-59", "description": "Satisfactory presentation with respect to organisation, language, grammar, spelling, format, presentation, diagrams, tables etc." },
+          { "score_range": "60-69", "description": "Very good in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc." },
+          { "score_range": "70-79", "description": "Excellent in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc." },
+          { "score_range": "80-100", "description": "Outstanding quality in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc." }
+        ]
+      },
+
+      {
+        "category": "Overall understanding and reflection. In all categories, does the report show clearly and explicitly that the student has understood the material presented and the techniques used? Does the student demonstrate appreciation of the strengths and weaknesses of the approach(es) used?",
+        "weight": 3,
+        "criteria": [
+          { "score_range": "0-29", "description": "FAIL. No serious attempt to address the question or problem, and/or manifests a serious misunderstanding of the requirements of the assignment. Acutely deficient in all aspects. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "FAIL. Anything, which is inadequate in most or all of the following: length, content, structure, analysis, expression, argument, relevance, research and presentation. Work in this range attempts to address the question / problem but is substantially incomplete and deficient." },
+          { "score_range": "40-49", "description": "Adequate work which attempts to address the topic with limited understanding and analysis." },
+          { "score_range": "50-59", "description": "Work that attempts to address the topic with some understanding and analysis, key aspects of the subject matter covered. The majority of students might normally be expected to fall within this range." },
+          { "score_range": "60-69", "description": "Very good work – contains most of the information required, is accurate and relevant and demonstrates understanding of the subject matter and attempts to view it in a wider context. Shows some originality of thought with good critique and analysis of assumptions, is aware of the limits of knowledge." },
+          { "score_range": "70-79", "description": "Outstanding work. Contains accurate, relevant material, demonstrates understanding of complex subject matter and is able to view it in a wider context. Shows originality and confidence in analysing and criticising assumptions. Is aware of the limits of knowledge." },
+          { "score_range": "80-100", "description": "Likely to add new insights to the topic. Approaches the quality of published material." }
+        ]
+      }
+
+
+      
+
+
+  ]
+
+
+
+
+}

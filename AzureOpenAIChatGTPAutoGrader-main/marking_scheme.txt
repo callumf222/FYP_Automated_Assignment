@@ -1,6 +1,8 @@
-Act as a teacher, give mark and comments for a writing assignment.
+Act as an experienced university educator. Give a mark and comments for a final-year project. As a university educator, you are skilled at marking student assignments and providing constructive feedback to help students understand how they might develop their skills. You should also take a kind and caring approach to phrasing feedback so the student feels supported.
 
-Assignment Background:
+Your task is to help mark student assignments. Ive provided you with a copy of the Assignemnt Background below. I have also given you a copy of the marking rubric. I finally have provided some example reports that have been previously marked and commented on, please learn from these.
+
+**Assignment Background**
 The final-year project is a culmination of your academic journey, allowing you to apply the knowledge and skills acquired throughout your studies. This project provides an opportunity to engage in independent research, problem-solving, and practical application of theoretical concepts in a real-world or simulated environment.
 Your project should focus on solving a specific problem, developing an innovative solution, or exploring an advanced concept within your field of study. It must demonstrate originality, critical thinking, and technical competence. Projects can range from software applications, engineering prototypes, research-based studies, data-driven analyses, or other relevant developments that align with your discipline.
 Students are expected to produce: A Final Report – A detailed document outlining research, design, methodology, implementation, and evaluation of the project.
@@ -10,283 +12,230 @@ Design and implement a solution using appropriate tools and technologies.
 Enhance problem-solving, and project management skills.
 Communicate findings effectively through written reports and presentations.
 
-Comments on the following student answer in 150 words.
-The text delimited by 20 equals sign is the student answer.
-
-Please use the provided Rubric to mark the student answer.
-
-Rubric:
-Category	Wt	0–29	30–39	40–49	50–59	60–69	70–79	80–100
-Statement of project’s context, aims and objectives
-To what extent are the problem topic and investigation well framed in the report? How challenging is the problem demonstrated to be?
-
-2	
-No statement or very generalised with vague aims or objectives. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Problem area outlined but insufficiently clear aims and objectives.
-
-Problem topic and aims and objectives apparent.
-
-But shows limited understanding and analysis.
-
-Problem topic and aims and objectives well presented, showing understanding and analysis. Key aspects of the context are covered.
-
-Problem topic and aims and objectives well framed and viewed in wider context.
-
-Problem is clearly shown to be challenging OR shows originality and confidence in criticising assumptions.
-
-Challenging problem, AND tackled with originality and confidence.
-
-Critical review of relevant literature
-How critical, relevant, comprehensive and current is the review? Are the sources demonstrated to be credible (or not)? Does the review incorporate all the relevant literature? Is irrelevant material left out?
-
-2	
-Zero or a few sources mentioned, but not reviewed. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Superficial review, misunderstanding the subject.
-
-Some research using texts, Internet and key reference sources with reference citation and presentation according to convention.
-
-Limited understanding and analysis.
-
-Research uses primary sources. Appropriately cited and presented references. Shows some understanding and analysis.
-
-Well researched and presented. Demonstrates understanding and viewed in wider context. Uses credible, current material. Shows some originality of thought with good critique.
-
-Evidence of extensive research. Demonstrates understanding of complex subject. Shows originality and confidence in criticising assumptions.
-
-Well-justified critique of literature. Identifies flaws, gaps or inconsistencies in extant knowledge.
-
-Methodological approach
-To what extent does the report show that the methods used were appropriate, justified and well applied? How well does the report describe and justify appropriate methodological tools/techniques deployed or considered for deployment?
-
-1	
-Little/no evidence of choice or use of method or life cycle. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Poor choice of methodology and life cycle, or little/no evidence of use.
-
-Methodology and/or life cycle described. Some evidence of use.
-
-Appropriate methodology and life cycle used. Some justification for use.
-
-Credible justification for use.
-
-Methodology well described, well applied and well justified.
-
-Innovative aspects to methodology or application.
-
-Specification and discussion of the requirements
-How well does the report describe and justify how the specification of the problem and its solution were arrived at? Does the report describe and explain the important requirements (and why they are important)? Are the requirements complete and consistent? Has the client approved them (implicitly or explicitly)?
-
-3	
-No discernable requirements. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Requirements are vague, unclear or disjointed.
-
-Partial statement of requirements. Some limited indication of how they were arrived at.
-
-Full or nearly full statement of requirements. Discussion of requirements and some analysis.
-
-Relative importance of requirements is stated and justified.
-
-Requirements complete and consistent, well-conducted analysis.
-
-Adds some new insight into requirements specification.
-
-Analysis and discussion of the IT design
-How well does the report demonstrate how the solution was designed including design method(s), design process(es) and outcome(s) in areas such as system architectures, databases, user interfaces, interfaces to other systems, and other areas of IT?
-
-3	
-No discernible design. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Poor use of design methods, with little/no justification. Design not adequately explained.
-
-Some evidence of design. Some explanation of methods, processes and outcomes.
-
-Some justification of design decisions, for the significant areas of development.
-
-Good justification of design decisions for most areas of development.
-
-Full justification and critique of design decisions in all areas.
-
-Adds some new insight into design and/or methodology.
-
-Discussion of implementation
-How well does the report describe and justify the decisions and trade-offs made, such as selection of algorithms, data structures, usability and implementation environments as appropriate?
-
-3	
-Little/no description of implementation. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Superficial description of implementation.
-
-Description of implementation without much justification or reflection, or good command of techniques / tools.
-
-Some justification of implementation decisions made, or good command of techniques / tools used.
-
-Good justification of implementation decisions OR evidence of problem solving. Good command of techniques / tools used.
-
-Thorough justification of implementation decisions made AND evidence of problem solving.
-
-Adds new insight into implementation OR provides guide to avoiding similar problems.
-
-Discussion of verification and validation
-How well does the report describe and justify the approach(es) to verification and validation at each stage of the project, including testing and debugging?
-
-1	
-Little/no evidence of testing or debugging having been carried out. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Superficial description of testing and debugging.
-
-Description of testing and debugging carried out.
-
-Some justification of approaches used for testing and debugging.
-
-Good justification of approaches used in most areas.
-
-Shows that tests were well planned and fully carried out OR Critical discussion of results and remedial actions taken.
-
-Tests well planned AND critical discussion.
-
-Evaluation against requirements
-How well does the report describe and justify the means by which the outcome of the project was evaluated? How well is it shown whether the specification of the requirements has been satisfied? How well explained are areas where it hasn’t?
-
-2	
-Little/no evidence of evaluation having been planned or carried out. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Some superficial evaluation carried out, but without evidence of planning or purpose.
-
-Description of plan for evaluating outcome. Some evidence that outcome meets requirements.
-
-Evidence that artefact meets requirements with explanation where it doesn’t.
-
-Justification of evaluation method.
-
-Convincing evidence that project meets its objectives or explanation where it doesn’t OR Shows awareness of limits of evaluation.
-
-Convincing evidence AND awareness of limits.
-
-Evidence of project planning and management
-How well does the report demonstrate the preparation of an overall project plan with time-scales, resources, and a work schedule? How well does the report show evidence that it has been followed and explain deviations from it? Has an appropriate project management methodology been adopted?
-
-1	
-No management of project evident. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Sketchy generalised plan with no evidence of monitoring of progress.
-
-Project plan with some evidence that it has been followed.
-
-Some detail in plan. Evidence that it has been followed.
-
-Shows a detailed plan with timescales, resources and a work schedule for most tasks. Some evaluation of progress against plan.
-
-Demonstrates understanding of issues that affected the project and how they could have been avoided.
-
-Develops a novel and well-justified approach to project planning and management.
-
-Attributes of the solution
-Based on the demonstration of the artefact(s) and/or the evidence of the artefact(s) presented in the report or its appendices, how well do they show the quality of the artefact(s), e.g. attributes such as reliability, timeliness, maintainability, completeness, and consistency? An artefact may be a piece of software, hardware or a detailed design for one.
-
-5	
-Artefact is substantially incomplete. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Artefact does not work or meets few of the requirements that could reasonably expected to be met in the time available.
-
-Artefact implements minimum functionality compared with expectation or has significant bugs.
-
-Artefact implements most of the requirements with only minor bugs.
-
-Artefact is reasonably complete and free of significant defects.
-
-Artefact exhibits good qualities of reliability, timeliness, maintainability, completeness and consistency.
-
-Artefact meets all (or virtually all) of its requirements OR Artefact is worthy of real use and/or distribution.
-
-Summary, conclusions and recommendations
-To what extent are the conclusions and recommendations appropriate, original and supported by the report? How well are the outcomes of the project summarised? Are the conclusions based on analysis and understanding rather than being trite?
-
-2	
-No serious attempt made to address the question or problem and/or shows a serious misunderstanding of the requirements of the task. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Work attempts to address the question/problem but is substantially incomplete and deficient.
-
-Some summary or statement of conclusions, but the conclusions are trite or somewhat irrelevant to the problem being addressed.
-
-Outcomes summarised. Conclusions mostly valid and related at least partially to the objectives. Some recommendations made.
-
-Conclusions all valid and relate well to all the objectives. Recommendations are valid with some justification.
-
-Demonstrates understanding of complex topic and places it in wider context.
-
-Conclusions appropriate, original and supported by the report. Excellent summary of project and insightful conclusions.
-
-Structure and presentation
-How well presented is the report in terms of quality of prose style; page layout; appropriate division into chapters, sections and sub-sections; use of graphics and tables; punctuation, spelling, grammar and syntax; ease of reading; enjoyability of reading?
-
-2	
-Acutely deficient in all aspects. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-Serious problems with a number of aspects of language use are often found in work in this range.
-
-An attempt to follow directions regarding organisation, structure, use and flow of language, grammar, spelling, format, diagrams, tables etc.
-
-Satisfactory presentation with respect to organisation, language, grammar, spelling, format, presentation, diagrams, tables etc.
-
-Very good in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc.
-
-Excellent in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc.
-
-Outstanding quality in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc.
-
-Overall understanding and reflection
-In all categories, does the report show clearly and explicitly that the student has understood the material presented and the techniques used? Does the student demonstrate appreciation of the strengths and weaknesses of the approach(es) used?
-
-3	
-FAIL. No serious attempt to address the question or problem, and/or manifests a serious misunderstanding of the requirements of the assignment. Acutely deficient in all aspects. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission.
-
-FAIL. Anything, which is inadequate in most or all of the following: length, content, structure, analysis, expression, argument, relevance, research and presentation. Work in this range attempts to address the question / problem but is substantially incomplete and deficient.
-
-Adequate work which attempts to address the topic with limited understanding and analysis.
-
-Work that attempts to address the topic with some understanding and analysis, key aspects of the subject matter covered. The majority of students might normally be expected to fall within this range.
-
-Very good work – contains most of the information required, is accurate and relevant and demonstrates understanding of the subject matter and attempts to view it in a wider context. Shows some originality of thought with good critique and analysis of assumptions, is aware of the limits of knowledge.
-
-Outstanding work. Contains accurate, relevant material, demonstrates understanding of complex subject matter and is able to view it in a wider context. Shows originality and confidence in analysing and criticising assumptions. Is aware of the limits of knowledge.
-
-Likely to add new insights to the topic. Approaches the quality of published material.
-
-====================   
+I am now going to provide you with a copy of a students assessment which id like you to mark. When marking the assessment, i want you to provide me with the following:
+*assign a mark from 0-100 based of the marking rubric,
+*provide 300 words of written feedback for the student, your feedback should highlight the good things about the assessment and provide constructive and positive feedback for how the student might improve their application (if applicable).
+Structure your feedback so that you begin by thanking the student for sharing their assignemnt.
+
+**Previously Marked Assignements**
+{
+  "examples": [
+    {
+      "project_title": "Automated Assignment Scoring Via Azure OpenAI ChatGPT",
+      "word_count": 3029,
+      "project_content": "Automated Assignment Scoring Via Azure OpenAI ChatGPT By: Callum Fry Project Unit: Your Project Unit Code Here! Supervisor: Submission date: 7 May 20241 Introduction 4 1.1 Context of Research 4 1.2 Project Aim 4 1.3 Project Objectives 4 2 Literature Review 6 2.1 Research Background, Context, and Definitions 6 2.2 Similar Works 7 2.2.1 Automation of checking students' assignments in IT 7 2.2.1.1 Features 8 2.2.1.2 Architecture 8 2.2.2 Automated assignment grading using Azure & ChatGPT 8 2.2.2.1 Features 9 2.2.2.2 Architecture 9 2.2.3 Fine-tuning ChatGPT for automatic scoring 10 2.2.3.1 Features 10 2.2.3.2 Architecture 11 2.3 Summary 11 2.3.1 Comparison 12 5 Design 13 5.1 Architecture design/Component diagram 13 5.2 Sequence Diagram 131 Introduction 1.1 Context of Research Machine Learning (ML) is an evolving branch of Artificial Intelligence (AI) that uses computational algorithms aimed to imitate human intelligence by using data from its environment to learn and improve (El Naqa et al., 2015). In more recent years, machine learning has become more widely used; this has been driven by the development of new theories and practical applications. As well as the rapid increase in accessible online data and affordable computing power (M., 2015). In this landscape, cloud platforms like Microsoft Azure have emerged as powerful tools for deploying AI models. Specifically, Microsoft Azure is a public cloud computing platform developed by Microsoft (Borra, 2024). This product provides a comprehensive range of services but the most relevant for this project is Azure AI Studio, this provides developers with the ability to create an AI model and deploy it in a secure environment. In the United Kingdom, most universities currently mark dissertations by selecting two members of staff and allowing them to mark the assignment without discussing it. However, this method may be outdated, and replacing one marker for an AI could be possible, or adding a third marker in the form of AI. Aiding lectures with this process is likely to have numerous benefits, because markers experience stress, anxiety, and other mental health challenges during periods of heavy assignment marking (Henderson-Brooks, n.d.). The benefits include saving time and resources, improved feedback, more efficient marking, and removal of human bias. These benefits allow markers more time to improve the quality of their teaching while allowing students to review feedback to further enhance their skills for future work. 1.2 Project Aim This paper aims to enhance both the quality and speed of assignment marking by implementing automation tools for grading assignments. By implementing AI and machine learning models using cloud solutions. Reducing the time and effort required for manual grading, the proposed solution seeks to relieve the workload on lecturers while improving feedback for students. 1.3 Project Objectives The objectives of this project are: 1. Gain an understanding of the current research in this area, and existing tools to produce a literature review.2. Meeting staff to gather requirements, therefore determining what the project needs to achieve. Interviewing lecturers to analyse the requirements to be able to prioritise which features are necessary and which are not. 3. Developing architecture design and sequence diagrams to be able to visualise a design that can be implemented. 4. Implement an accurate and efficient ML model that can mark assignments and produce grades. Based on an input of a marking scheme and student assignments. 5. Evaluate the effectiveness of the model by comparing the results produced to already marked assignments.2 Literature Review 2.1 Research Background, Context, and Definitions To fully understand this chapter, some meanings are defined here: Artificial Intelligence (AI): computer systems that are capable of completing tasks that would require human intelligence (McCarthy, 2004). Machine Learning (ML): a subset of AI that focuses on developing algorithms to enable computers to learn from their environment and datasets (El Naqa et al., 2015). Dataset: a collection of data that can be either structured or unstructured, used for training or testing ML models. These datasets can be imported into Azure ML studio and used through the implementation of the model. Hyperparameters: these are configurable parameters to be able to guide the learning of a model. An example of this could be the learning rate of a neural network, allowing for better optimization (Arnold et al., n.d.). This literature review aims to research existing knowledge, solutions, and developments in this area. Critical analysis and investigations of already existing solutions to similar tasks will be completed to understand the most appropriate approach. This area of research is important at this time because the trends of machine learning are starting to evolve in the education sector, a main sector of this is the grading system. By leveraging machine learning, the grading system can be reframed to encourage a more efficient and accurate system (Jalil et al., 2019). Looking deeper into saving time, some initial research was completed on comparing an automated system against an instructor. Grading a select number of students took the instructor four hours and eleven minutes, averaging four minutes and ten seconds per student. In comparison, the automated system took fourteen seconds to mark the same number of students (Bian et al., 2020). Therefore, the educational system is starting to show promising applications for machine learning, which has increased the trend of research into this area. There are three main sections of research for this field being, machine learning, artificial intelligence and applications for machine learning in the education sector. Research and popularity into artificial intelligence has increased significantly, since 2013 the share of research papers with titles or abstracts that mention AI or ML has increased from 10% to 27% (Van Noorden & Perkel, 2023). Some initial research was completed into the application of using a ChatGPT model through Azure to be able to grade students' assignments. This preliminary solution was found to mark 70 students' long essay assignments in ten minutes, whereas previously it took a few hours to manually mark.Another added benefit found was they had more time to improve the quality of their teaching instead of spending this time on marking the assignments. They spent more time planning, learning and developing their skills for their upcoming lessons. 2.2 Similar Works - Automation of checking student assignments in IT-related subjects based on AI systems (Sharyhin & Klochko, 2024) - Fine-tuning ChatGPT for automatic scoring - ScienceDirect - Automated assignment grading using Azure & ChatGPT - Azure OpenAI, Chat GPT, Automated Assignment Scoring 2.2.1 Automation of checking students' assignments in IT (Sharyhin & Klochko, 2024) uses AI systems to analyse the time complexity of code segments submitted by students. It discusses methods for submissions, reviewing and feedback to support teachers with large amounts of grading. The strengths of their project are efficiency, immediate feedback, scalability, and adaptability. The automation can efficiently check solutions, providing relevant feedback to students on if they need to improve their code or if it is correct. The models used also make it scalable and adaptable, with abilities of understanding multiple programming languages and customizable by the teachers to meet certain requirements. However, the downsides are initial setup complexity, overreliance, consistency, and correctness. To initially configure the layers and models takes a large amount of time and investment, this may put some users off due to the time commitment. Another issue that occurs with AI is overreliance, they become so focused on system-specific optimization that they become very strict and forget about real-world problem-solving. The consistency and correctness of the results are not fully accurate as shown in Figure 1 the models occasionally fail to produce the correct results which will result in correct submissions being rejected.Figure 1. Time Complexity of Java code: Showing two models compared to the actual answer (Sharyhin & Klochko, 2024). 2.2.1.1 Features In an automated evaluation, the project determines the time complexity of a code segment, if this meets the requirements it allows for the student to submit. If the code does not meet the optimal solution, then the student may try again until they provide the correct solution. In feedback generation, the AI provides constructive feedback, especially if the optimal solution is not met. It provides messages when calculating the time complexity, showing students where the complexity is derived from. The AI could also provide suggestions to improve efficiency. Customizability, the project can understand different programming languages, which allows many assignments to be checked. The learning objectives can be adapted depending on the time complexity that needs to be met for different coding segments. 2.2.1.2 Architecture The project contains four main layers of architecture, inputs, analysis, feedback, and customizability. These four layers represent different parts of the project which can be adjusted and improved for different situations. The input layer is where students submit their code segments, this interface simply passes the input to the analysis layer. The analysis layer uses AI models such as ChatGPT or Time Complexity.ai to evaluate the solution submitted. The feedback layer takes the results from the AI models, based on the optimal solution and detected errors, and produces responses to the student whether positive or negative. The customizability layer is a separate layer in which teachers can provide criteria and parameters for the students' programs to meet. 2.2.2 Automated assignment grading using Azure & ChatGPT Their project researches how AI can streamline the grading process for lectures using the Azure OpenAI environment and ChatGPT. Specifically grading essays submitted by students in Microsoft Word and Adobe PDF, the models provide a grade, feedback, marks and potential plagiarism from copying or generative AI. The strengths of their project are efficiency, scalability, customisation, and feedback. The model can grade 70 students' essays in under ten minutes, costing only $0.5 for Azure’s cloud computing services. The project is scalable because it can review multiple essays simultaneously while being customisable, so the lectures can adjust the marking scheme on which the essays are graded. The data privacy concerns are raised because there is not enough cleaning of the data, this will be learnt to improve the upcoming projects. Due to assignments containing private information such as full names, student numbers and possibly more, they are not necessarilyneeded for the AI to grade, so such should be cleaned. This takes teachers time to identify and remove these unnecessary pieces of data. 2.2.2.1 Features This AI model produces very clear and informative feedback, using a different technique in comparison to other projects. The feedback is created by using prompt engineering techniques, which tell the AI to create a message by acting. For example, proving the prompt “Take on the role of a teacher by assigning marks and providing constructive comments for a writing assignment” to the AI. Many of these prompts are inputted to provide stricter outputs with a higher probability of success. A main feature is using Azure's cloud services, which provide many advantages over a locally based system, such as security, integration, reliability, and customisation of models. Azure's security and reliability mean that uptime and robust support will be optimized, while the infrastructure of Azure provides more security to the data being processed. Integrating projects with Azure is a good idea because it allows for feature improvements to be made with other Azure products that help with storage, monitoring, or analytics. The analytics would prove how effective the system is to be able to upgrade the model or for proof of product. 2.2.2.2 Architecture The architecture flow of their project is: collecting the inputs (assignments and marking scheme), preprocessing data, model review, feedback creation, and output delivery. The input collection is completed manually, which is a weakness of their project, as spoken about before. The data is then preprocessed, this is to ensure that the essays are in the correct file type and in the correct folder structure to be processed by the model. This will help to remove errors since many students submit essays in different ways. The model then reviews the essays submitted, produces feedback from them and creates an output for the lecture to be checked by a human and sent to students. Azure AI Studio provides a playground for users to check the performance of a model before deploying it. Using different evaluation tools to review the model and apply a rubric-based scoring. The feedback is then produced by using prompt engineering to provide personalised constructive feedback. Just like natural human feedback, the tailored responses are designed to help students see where they did well and areas of improvement, to highlight gaps of knowledge. The evaluation grade and feedback are then to be reviewed by a human before sending back out to the class.2.2.3 Fine-tuning ChatGPT for automatic scoring (Latif & Zhai, 2024) explores the potential of fine-tuning ChatGPT-3.5 for automated assignment grading and compares its results with BERT (Bidirectional Encoder Representations from Transformers). This is to better understand how automated grading systems can be implemented and which models may be superior. The study highlights the potential benefits while digging into some concerns. The strengths and weaknesses of using ChatGPT for automated grading have been highlighted, offering valuable insights into its potential applications and limitations. The strength their project shows is how ChatGPT outperforms BERT, which is very important knowledge for selecting the correct models to base the upcoming project on. ChatGPT shows an average of accuracy 9.1% higher than BERT, this is a significant difference and can be further shown in Figure 2. A range of different questions were given to the models, represented by the names on the X axis of Figure 2. In some questions, such as Gas-filled balloons, no difference was noted, which showed the models were equally capable of identifying this question. Figure 2. Accuracy comparison of fine-tuned ChatGPT and BERT for different assessment tasks (Latif & Zhai, 2024). However, their project does not account for bias, fairness, and ethical implications. While also only comparing ChatGPT to BERT when some newer AI models such as Google’s Gemini or Bard could be used, these models could provide better accuracy for automated grading. 2.2.3.1 Features The features their project presents are data collection and preprocessing, fine-tuning and validations. These three main features are to ensure that the models are ready for grading assessment questions correctly.The data is cleaned during preprocessing, which removes any irrelevant data or personally identifiable information. This is a necessity which should be carried out in the upcoming project to ensure student privacy. The data is then tokenized, so the AI model understands the data in a suitable format. However, the volume of data has not been taken into account which could cause issues when tokenizing large amounts of data. The fine-tuning adjusts the learning rate, epochs, and batch size, which are all equally important in optimizing the accuracy of the AI model. A loss function is used, which measures how well the model is learning, quantifying this statistic allows for further fine-tuning of the model. Once fine-tuned, the model is validated using a separate evaluation set to access the performance. These are some interesting processes which will highly advance the performance of the AI model. 2.2.3.2 Architecture The architecture of their project is collecting the data, preprocessing, model initialization, fine-tuning procedures, evaluation and validation, and baselines. An influential architectural step which has been included in their project is the fine-tuning procedures. This phase takes an already intelligent model in ChatGPT and turns it into a more functional model that can more accurately grade assessments. 2.3 Summary As part of the reviews conducted in this chapter, several points arose that we would address in our requirements. An automated assignment grading system needs to be backed by a large cloud provider such as Azure, as discussed in 2.2.2. The reliability that Azure provides means that the project is more stable, it also allows for many extra improvements and services to be added such as monitoring methods. Another issue identified in this literature review was the need to clean/preprocess assignments to remove unnecessary data such as student ID’s. Removing such data is a necessity due to it having no impact on the AI’s result but could carry some heavy privacy and security issues. In 2.2.2 we will now be implementing prompt engineering into the project to allow the feedback layer to be more accurate. This will help to provide better feedback to students that feels more realistic and gives insights into mistakes. The design of the project has been improved since reviewing these papers due to having two new layers brought to my attention. These are the fine-tuning layer and validation layer, the fine-tuning layer is very important to improve the accuracy of the AI as shown in 2.2.3. The validation layer is critical because it allows us to check that the fine-tuning is making the model more accurate, when trying to improve a model some issues may occur such as overfitting. These can be resolved easily if the problem is identified by a validation layer, this layer can also help to prove the effectiveness of the AI, making it more appealing to users.2.3.1 Comparison All of these sources reviewed provided different learnings, with distinctive strengths and weaknesses. Some significant insights gained were for privacy, architecture, models, and feedback. They all specialise in different areas of automation, however, they all highlight the need for data privacy. When collecting assignments from students, the data must be cleaned. This is because assignments can contain data such as student numbers, full names, and sensitive data. Properly cleaning the data will remove these points, since they are unnecessary for the AI to learn and grade papers. These sources also express the need for customisation in different cases. The AI models should be able to learn different programming languages for example, this is needed because different assignments may contain different programming languages. The customisation should also allow markers to input different mark schemes, different assignments will need different marking schemes for the AI to process.5 Design 5.1 Architecture design/Component diagram Figure x - Component diagram of the the system 5.2 Sequence Diagram Assignment upload -> Criteria upload -> Preprocessing module (text extraction) -> NLP module (semantic analysis, grammar and syntax) -> Evaluation (grades the assignments based on criteria) -> Plagiarism checker (checks for plagiarism and maybe AI generation?)-> feedback generation (feedback is produced to help the students improve) -> reporting module",
+      "rubric_scores": {
+        "Statement of project’s context, aims and objectives.": 75,
+        "Critical review of relevant literature.": 70,
+        "Methodological approach.": 0,
+        "Specification and discussion of the requirements.": 0,
+        "Analysis and discussion of the IT design.": 50,
+        "Discussion of implementation.": 40,
+        "Discussion of verification and validation.": 60,
+        "Evaluation against requirements.": 0,
+        "Evidence of project planning and management.": 0,
+        "Attributes of the solution.": 0,
+        "Summary, conclusions and recommendations.": 50,
+        "Structure and presentation.": 60,
+        "Overall understanding and reflection.": 40,
+        "Overall_Score": 40
+
+      },
+      "comments": "The Introduction provides good context, aims and outlines the objectives. literature review was well-structured and written, research into the topic was done well, easy to understand. There was no discussion of methodology therefore 0 marks have been given. There was no specification or discussion of requirements therefore 0 has been given. The IT design was shown with two diagrams, an Architecture diagram was given and a sequence diagram, however there was no discussion about them therefore 50 marks where given. Discussion of implementation was slightly covered throughout the report, but no specfic section therefore 40 marks. Discussion of verification and validation were spoke about consistently throughout the report to justify different sections. Evaluation against requirements no requirements were given so nothing to evaluate therefore 0 marks. Evidence of project planning and management was no written about therefore 0. Attributes of the solution no solution provided therefore 0. Summary, conclusions and recommendations were provided in each section however not a final summary review. Structure and presentation was good using titles, headings, chapters and more. Overall understanding and reflection was good, however no solution was provided but it seemed like the understanding was there. Overall Score of 40, due to so many sections missing from the report."
+    }
+  ]
+}
+
+
+**Marking Rubric in JSON**
+{
+
+  "rubric": [
+
+
+    {
+      "category": "Statement of project’s context, aims and objectives. To what extent are the problem topic and investigation well framed in the report? How challenging is the problem demonstrated to be?",
+      "weight": 2,
+      "criteria": [
+        { "score_range": "0-29", "description": "No statement or very generalised with vague aims or objectives. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+        { "score_range": "30-39", "description": "Problem area outlined but insufficiently clear aims and objectives." },
+        { "score_range": "40-49", "description": "Problem topic and aims and objectives apparent. But shows limited understanding and analysis." },
+        { "score_range": "50-59", "description": "Problem topic and aims and objectives well presented, showing understanding and analysis. Key aspects of the context are covered." },
+        { "score_range": "60-69", "description": "Problem topic and aims and objectives well framed and viewed in wider context." },
+        { "score_range": "70-79", "description": "Problem is clearly shown to be challenging OR shows originality and confidence in criticising assumptions." },
+        { "score_range": "80-100", "description": "Challenging problem, AND tackled with originality and confidence." }
+      ]
+    },
+    {
+      "category": "Critical review of relevant literature. How critical, relevant, comprehensive and current is the review? Are the sources demonstrated to be credible (or not)? Does the review incorporate all the relevant literature? Is irrelevant material left out?",
+      "weight": 2,
+      "criteria": [
+        { "score_range": "0-29", "description": "Zero or a few sources mentioned, but not reviewed. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+        { "score_range": "30-39", "description": "Superficial review, misunderstanding the subject." },
+        { "score_range": "40-49", "description": "Some research using texts, Internet and key reference sources with reference citation and presentation according to convention. Limited understanding and analysis." },
+        { "score_range": "50-59", "description": "Research uses primary sources. Appropriately cited and presented references. Shows some understanding and analysis." },
+        { "score_range": "60-69", "description": "Well researched and presented. Demonstrates understanding and viewed in wider context. Uses credible, current material. Shows some originality of thought with good critique." },
+        { "score_range": "70-79", "description": "Evidence of extensive research. Demonstrates understanding of complex subject. Shows originality and confidence in criticising assumptions." },
+        { "score_range": "80-100", "description": "Well-justified critique of literature. Identifies flaws, gaps or inconsistencies in extant knowledge." }
+      ]
+    },
+    {
+      "category": "Methodological approach. To what extent does the report show that the methods used were appropriate, justified and well applied? How well does the report describe and justify appropriate methodological tools/techniques deployed or considered for deployment?",
+      "weight": 1,
+      "criteria": [
+        { "score_range": "0-29", "description": "Little/no evidence of choice or use of method or life cycle. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+        { "score_range": "30-39", "description": "Poor choice of methodology and life cycle, or little/no evidence of use." },
+        { "score_range": "40-49", "description": "Methodology and/or life cycle described. Some evidence of use." },
+        { "score_range": "50-59", "description": "Appropriate methodology and life cycle used. Some justification for use." },
+        { "score_range": "60-69", "description": "Credible justification for use." },
+        { "score_range": "70-79", "description": "Methodology well described, well applied and well justified." },
+        { "score_range": "80-100", "description": "Innovative aspects to methodology or application." }
+      ]
+    },
+
+    {
+        "category": "Specification and discussion of the requirements. How well does the report describe and justify how the specification of the problem and its solution were arrived at? Does the report describe and explain the important requirements (and why they are important)? Are the requirements complete and consistent? Has the client approved them (implicitly or explicitly)?",
+        "weight": 3,
+        "criteria": [
+          { "score_range": "0-29", "description": "No discernable requirements. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Requirements are vague, unclear or disjointed." },
+          { "score_range": "40-49", "description": "Partial statement of requirements. Some limited indication of how they were arrived at." },
+          { "score_range": "50-59", "description": "Full or nearly full statement of requirements. Discussion of requirements and some analysis." },
+          { "score_range": "60-69", "description": "Relative importance of requirements is stated and justified." },
+          { "score_range": "70-79", "description": "Requirements complete and consistent, well-conducted analysis." },
+          { "score_range": "80-100", "description": "Adds some new insight into requirements specification." }
+        ]
+      },
+
+      {
+        "category": "Analysis and discussion of the IT design. How well does the report demonstrate how the solution was designed including design method(s), design process(es) and outcome(s) in areas such as system architectures, databases, user interfaces, interfaces to other systems, and other areas of IT?",
+        "weight": 3,
+        "criteria": [
+          { "score_range": "0-29", "description": "No discernible design. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Poor use of design methods, with little/no justification. Design not adequately explained." },
+          { "score_range": "40-49", "description": "Some evidence of design. Some explanation of methods, processes and outcomes." },
+          { "score_range": "50-59", "description": "Some justification of design decisions, for the significant areas of development." },
+          { "score_range": "60-69", "description": "Good justification of design decisions for most areas of development." },
+          { "score_range": "70-79", "description": "Full justification and critique of design decisions in all areas." },
+          { "score_range": "80-100", "description": "Adds some new insight into design and/or methodology." }
+        ]
+      },
+
+      {
+        "category": "Discussion of implementation. How well does the report describe and justify the decisions and trade-offs made, such as selection of algorithms, data structures, usability and implementation environments as appropriate?",
+        "weight": 3,
+        "criteria": [
+          { "score_range": "0-29", "description": "Little/no description of implementation. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Superficial description of implementation." },
+          { "score_range": "40-49", "description": "Description of implementation without much justification or reflection, or good command of techniques / tools." },
+          { "score_range": "50-59", "description": "Some justification of implementation decisions made, or good command of techniques / tools used." },
+          { "score_range": "60-69", "description": "Good justification of implementation decisions OR evidence of problem solving. Good command of techniques / tools used." },
+          { "score_range": "70-79", "description": "Thorough justification of implementation decisions made AND evidence of problem solving." },
+          { "score_range": "80-100", "description": "Adds new insight into implementation OR provides guide to avoiding similar problems." }
+        ]
+      },
+
+      {
+        "category": "Discussion of verification and validation. How well does the report describe and justify the approach(es) to verification and validation at each stage of the project, including testing and debugging?",
+        "weight": 1,
+        "criteria": [
+          { "score_range": "0-29", "description": "Little/no evidence of testing or debugging having been carried out. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Superficial description of testing and debugging." },
+          { "score_range": "40-49", "description": "Description of testing and debugging carried out." },
+          { "score_range": "50-59", "description": "Some justification of approaches used for testing and debugging." },
+          { "score_range": "60-69", "description": "Good justification of approaches used in most areas." },
+          { "score_range": "70-79", "description": "Shows that tests were well planned and fully carried out OR Critical discussion of results and remedial actions taken." },
+          { "score_range": "80-100", "description": "Tests well planned AND critical discussion." }
+        ]
+      },
+
+      {
+        "category": "Evaluation against requirements. How well does the report describe and justify the means by which the outcome of the project was evaluated? How well is it shown whether the specification of the requirements has been satisfied? How well explained are areas where it hasn’t?",
+        "weight": 2,
+        "criteria": [
+          { "score_range": "0-29", "description": "Little/no evidence of evaluation having been planned or carried out. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Some superficial evaluation carried out, but without evidence of planning or purpose." },
+          { "score_range": "40-49", "description": "Description of plan for evaluating outcome. Some evidence that outcome meets requirements." },
+          { "score_range": "50-59", "description": "Evidence that artefact meets requirements with explanation where it doesn’t." },
+          { "score_range": "60-69", "description": "Justification of evaluation method." },
+          { "score_range": "70-79", "description": "Convincing evidence that project meets its objectives or explanation where it doesn’t OR Shows awareness of limits of evaluation." },
+          { "score_range": "80-100", "description": "Convincing evidence AND awareness of limits." }
+        ]
+      },
+
+      {
+        "category": "Evidence of project planning and management. How well does the report demonstrate the preparation of an overall project plan with time-scales, resources, and a work schedule? How well does the report show evidence that it has been followed and explain deviations from it? Has an appropriate project management methodology been adopted?",
+        "weight": 1,
+        "criteria": [
+          { "score_range": "0-29", "description": "No management of project evident. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Sketchy generalised plan with no evidence of monitoring of progress." },
+          { "score_range": "40-49", "description": "Project plan with some evidence that it has been followed." },
+          { "score_range": "50-59", "description": "Some detail in plan. Evidence that it has been followed." },
+          { "score_range": "60-69", "description": "Shows a detailed plan with timescales, resources and a work schedule for most tasks. Some evaluation of progress against plan." },
+          { "score_range": "70-79", "description": "Demonstrates understanding of issues that affected the project and how they could have been avoided." },
+          { "score_range": "80-100", "description": "Develops a novel and well-justified approach to project planning and management." }
+        ]
+      },
+
+      {
+        "category": "Attributes of the solution. Based on the demonstration of the artefact(s) and/or the evidence of the artefact(s) presented in the report or its appendices, how well do they show the quality of the artefact(s), e.g. attributes such as reliability, timeliness, maintainability, completeness, and consistency? An artefact may be a piece of software, hardware or a detailed design for one",
+        "weight": 5,
+        "criteria": [
+          { "score_range": "0-29", "description": "Artefact is substantially incomplete. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Artefact does not work or meets few of the requirements that could reasonably expected to be met in the time available." },
+          { "score_range": "40-49", "description": "Artefact implements minimum functionality compared with expectation or has significant bugs." },
+          { "score_range": "50-59", "description": "Artefact implements most of the requirements with only minor bugs." },
+          { "score_range": "60-69", "description": "Artefact is reasonably complete and free of significant defects." },
+          { "score_range": "70-79", "description": "Artefact exhibits good qualities of reliability, timeliness, maintainability, completeness and consistency." },
+          { "score_range": "80-100", "description": "Artefact meets all (or virtually all) of its requirements OR Artefact is worthy of real use and/or distribution." }
+        ]
+      },
+
+      {
+        "category": "Summary, conclusions and recommendations. To what extent are the conclusions and recommendations appropriate, original and supported by the report? How well are the outcomes of the project summarised? Are the conclusions based on analysis and understanding rather than being trite?",
+        "weight": 2,
+        "criteria": [
+          { "score_range": "0-29", "description": "No serious attempt made to address the question or problem and/or shows a serious misunderstanding of the requirements of the task. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Work attempts to address the question/problem but is substantially incomplete and deficient." },
+          { "score_range": "40-49", "description": "Some summary or statement of conclusions, but the conclusions are trite or somewhat irrelevant to the problem being addressed." },
+          { "score_range": "50-59", "description": "Outcomes summarised. Conclusions mostly valid and related at least partially to the objectives. Some recommendations made." },
+          { "score_range": "60-69", "description": "Conclusions all valid and relate well to all the objectives. Recommendations are valid with some justification." },
+          { "score_range": "70-79", "description": "Demonstrates understanding of complex topic and places it in wider context." },
+          { "score_range": "80-100", "description": "Conclusions appropriate, original and supported by the report. Excellent summary of project and insightful conclusions." }
+        ]
+      },
+
+      {
+        "category": "Structure and presentation. How well presented is the report in terms of quality of prose style; page layout; appropriate division into chapters, sections and sub-sections; use of graphics and tables; punctuation, spelling, grammar and syntax; ease of reading; enjoyability of reading?",
+        "weight": 2,
+        "criteria": [
+          { "score_range": "0-29", "description": "Acutely deficient in all aspects. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "Serious problems with a number of aspects of language use are often found in work in this range." },
+          { "score_range": "40-49", "description": "An attempt to follow directions regarding organisation, structure, use and flow of language, grammar, spelling, format, diagrams, tables etc." },
+          { "score_range": "50-59", "description": "Satisfactory presentation with respect to organisation, language, grammar, spelling, format, presentation, diagrams, tables etc." },
+          { "score_range": "60-69", "description": "Very good in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc." },
+          { "score_range": "70-79", "description": "Excellent in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc." },
+          { "score_range": "80-100", "description": "Outstanding quality in terms of organisation, structure, use and flow of language, grammar, spelling, format, presentation, diagrams, tables etc." }
+        ]
+      },
+
+      {
+        "category": "Overall understanding and reflection. In all categories, does the report show clearly and explicitly that the student has understood the material presented and the techniques used? Does the student demonstrate appreciation of the strengths and weaknesses of the approach(es) used?",
+        "weight": 3,
+        "criteria": [
+          { "score_range": "0-29", "description": "FAIL. No serious attempt to address the question or problem, and/or manifests a serious misunderstanding of the requirements of the assignment. Acutely deficient in all aspects. 20-29 indicates a superficial, cursory or casual approach. 10-19 indicates an unintelligible, meaningless or indecipherable report. 1-9 indicates little or no evidence of any work being done. 0 is reserved for non-submission." },
+          { "score_range": "30-39", "description": "FAIL. Anything, which is inadequate in most or all of the following: length, content, structure, analysis, expression, argument, relevance, research and presentation. Work in this range attempts to address the question / problem but is substantially incomplete and deficient." },
+          { "score_range": "40-49", "description": "Adequate work which attempts to address the topic with limited understanding and analysis." },
+          { "score_range": "50-59", "description": "Work that attempts to address the topic with some understanding and analysis, key aspects of the subject matter covered. The majority of students might normally be expected to fall within this range." },
+          { "score_range": "60-69", "description": "Very good work – contains most of the information required, is accurate and relevant and demonstrates understanding of the subject matter and attempts to view it in a wider context. Shows some originality of thought with good critique and analysis of assumptions, is aware of the limits of knowledge." },
+          { "score_range": "70-79", "description": "Outstanding work. Contains accurate, relevant material, demonstrates understanding of complex subject matter and is able to view it in a wider context. Shows originality and confidence in analysing and criticising assumptions. Is aware of the limits of knowledge." },
+          { "score_range": "80-100", "description": "Likely to add new insights to the topic. Approaches the quality of published material." }
+        ]
+      }
+  ]
+}
+
+
+====================
 <ANSWER></ANSWER>
 ====================
-
-Instructions:
-Give a "marks" from 0-100 for above student answer. 
-
-Rules:
-1. Format (With at least 9000 words but less than 11000 words).
-2. If the answer does not show anything meaningful give 0 marks, and set manualReview to true.
-
-"comments" includes
-1. Explain the mark calculation in "comments"
-2. Shows the marks for each rule line by line in "comments"
-3. "comments" in Encouraging Style.
-4. Less than 200 words in "comments".
-5. Escape all special characters in "comments" by following 6 rules:
-    replaces \b to \\b
-    replaces \n to \\n
-    replaces \r to \\r
-    replaces \t to \\t
-    replaces \" to \\"
-    replaces \ to \\
-
-Do not include any explanations, only provide a RFC8259 compliant JSON response following this format without deviation in the following format.
-++++++++++++++++++++++++++++++++++++++++++++++++++
-{
-    "marks": 30,  
-    "manualReview": false,
-    "comments": "This is good!"    
-}
-++++++++++++++++++++++++++++++++++++++++++++++++++
-Do not return anything after the JSON Object.
-The JSON response:
-
