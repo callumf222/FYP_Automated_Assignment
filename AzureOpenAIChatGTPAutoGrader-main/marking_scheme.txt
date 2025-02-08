@@ -239,3 +239,26 @@ Structure your feedback so that you begin by thanking the student for sharing th
 ====================
 <ANSWER></ANSWER>
 ====================
+
+Do not include any explanations, only provide a RFC8259 compliant JSON response following this format without deviation in the following format.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+{
+  "Statement of project’s context, aims and objectives.": 75,
+    "Critical review of relevant literature.": 70,
+    "Methodological approach.": 0,
+    "Specification and discussion of the requirements.": 0,
+    "Analysis and discussion of the IT design.": 50,
+    "Discussion of implementation.": 40,
+    "Discussion of verification and validation.": 60,
+    "Evaluation against requirements.": 0,
+    "Evidence of project planning and management.": 0,
+    "Attributes of the solution.": 0,
+    "Summary, conclusions and recommendations.": 50,
+    "Structure and presentation.": 60,
+    "Overall understanding and reflection.": 40,
+    "Final Mark": 30,
+    "Comments": "This is good!"    
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Do not return anything after the JSON Object.
+The JSON response:
