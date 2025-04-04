@@ -257,7 +257,7 @@ Do not include any explanations, only provide a RFC8259 compliant JSON response 
     "Structure and presentation.": 60,
     "Overall understanding and reflection.": 40,
     "Final Mark": 30,
-    "Comments": "This is good!"    
+    "Comments": "This is good!"
 }
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 Do not return anything after the JSON Object.
