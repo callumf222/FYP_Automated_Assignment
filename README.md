@@ -6,7 +6,6 @@ This project is an intelligent application that automates the process of grading
 
 🚀 Features
     Drag-and-Drop Interface: Easily upload multiple student PDF files.
-    Word Count Validation: Submissions under 500 words are flagged for manual review.
     AI Feedback Generation: Uses GPT-3.5-turbo via Azure OpenAI to provide automated feedback based on a provided marking scheme.
     Excel Export: Automatically saves the AI feedback and marks in a structured Excel sheet.
     Manual Review Handling: Flags assignments that fail basic criteria (e.g., low word count) and skips AI processing.
